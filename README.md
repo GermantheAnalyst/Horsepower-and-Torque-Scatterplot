@@ -1,1 +1,1 @@
-# Hosrse-and-Speed-Scatterplot
+# Horsepower-and-Torque-Scatterplot
